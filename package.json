@@ -1,5 +1,5 @@
 {
-  "name": "autocmdr",
+  "name": "@jonniespratley/autocmdr",
   "version": "0.0.9",
   "description": "autocmdr",
   "main": "index.js",
