@@ -1,6 +1,6 @@
 {
   "name": "autocmdr",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "autocmdr",
   "main": "index.js",
   "bin": {
@@ -20,16 +20,16 @@
   "dependencies": {
     "commander": "^2.9.0",
     "commander-tabtab": "~0.1.0",
-    "didyoumean": "~1.1.0",
-    "nconf": "~0.6.7",
-    "winston": "~0.7.3"
+    "didyoumean": "~1.2.0",
+    "nconf": "~0.8.0",
+    "winston": "~2.3.0"
   },
   "bugs": {
-    "url": "https://github.com/Hypercubed/autocmdr/issues"
+    "url": "https://github.com/jonniespratley/autocmdr/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Hypercubed/autocmdr.git"
+    "url": "https://github.com/jonniespratley/autocmdr.git"
   },
   "devDependencies": {
     "mocha": "~1.12.1",
